@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="img/logo.png">
+    <title>Verde Bonito</title>
+    <title>Conoce a nuestros Peludos</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<style>
+    button {padding: 10px 20px; font-size: 16px;
+        background-color: #4CAF50; color: white; border: none;
+        border-radius: 5px; cursor: pointer;}
+
+        .contenedor {
+          background-color: #68BAAB; padding: 60px;
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            padding: 20px;
+        }
+
+        .contenedor img {
+            width: 160px;
+            border-radius: 10px;
+        }
+
+        .contenedor p {
+            font-size: 18px;
+            line-height: 1.5;
+        }
+</style>
+</head>
+<body>
+
+<button><a href="index.php">Volver Atrás</a></button>
+
+<body>
+    <header id="cabecera">
+      <img src="img/logo.png" width="25%">
+      <h1>Conoce a nuestros Peludos</h1>
+    </header>
+
+    <div class="contenedor">
+        <img src="img/Bastet.jpg" alt="Imagen de ejemplo">
+        <p>Nombre Bastet</p>
+        <p>Edad:</p>
+    </div>
+    
+    <div class="contenedor">
+        <img src="img/Leo.jpg" alt="Imagen de ejemplo">
+        <p>gata plasta</p>
+    </div>
+
+    <div class="contenedor">
+        <img src="img/Nieve.jpg" alt="Imagen de ejemplo">
+        <p>gata plasta</p>
+    </div>
+
+    <div class="contenedor">
+        <img src="img/Handia.jpg" alt="Imagen de ejemplo">
+        <p>gata plasta</p>
+    </div>
+
+    <div class="contenedor">
+        <img src="img/Lila.png" alt="Imagen de ejemplo">
+        <p>gata plasta</p>
+    </div>
+
+    <div class="contenedor">
+        <img src="img/Milu.jpg" alt="Imagen de ejemplo">
+        <p>gata plasta</p>
+    </div>
+
+    <div class="contenedor">
+        <img src="img/Lucho.jpg" alt="Imagen de ejemplo">
+        <p>gata plasta</p>
+    </div>
+
+    <div class="contenedor">
+        <img src="img/Coco.jpg" alt="Imagen de ejemplo">
+        <p>gata plasta</p>
+    </div>
+
+    <div class="contenedor">
+        <img src="img/Pancho.png" alt="Imagen de ejemplo">
+        <p>gata plasta</p>
+    </div>
+
+    <div class="contenedor">
+        <img src="img/greka.jpg" alt="Imagen de ejemplo">
+        <p>gata plasta</p>
+    </div>
+
+</body>
+</html>
